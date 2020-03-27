@@ -1,0 +1,10 @@
+<phpunit
+    bootstrap="vendor/autoload.php"
+    colors="true"
+    printerClass="Codedungeon\PHPUnitPrettyResultPrinter\Printer"
+>
+    <logging>
+        <log type="testdox-html" target="tests/logs/testdox.html"/>
+        <log type="testdox-text" target="tests/logs/testdox.txt"/>
+    </logging>
+</phpunit>

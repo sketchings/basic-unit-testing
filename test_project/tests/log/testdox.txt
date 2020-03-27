@@ -1,0 +1,16 @@
+FullRecipe
+ [x] Has title
+ [x] Has all ingredients
+ [x] Has all instructions
+ [x] Has yield
+ [x] Has source
+ [x] Has tags
+
+Recipes
+ [x] Can be created with empty title
+ [x] Ingredient must enter valid measurement
+ [x] Ingredient must enter valid amount
+ [x] Can call recipe directly
+ [x] Can add ingredient without measurements
+ [x] Ingredient is title case
+
